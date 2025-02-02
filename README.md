@@ -9,6 +9,9 @@ I'm a KALEPU MOHAN VEERA MANIKANTA Computer Science and Engineering student spec
 - **Programming:** C, C++, Java, Python
 - **Web Development:** HTML, CSS, JavaScript
 - **Tools:** Git, GitHub, VS Code
+- 
+## 📊 GitHub Stats
+![Mohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohanveeramanikantak&show_icons=true&theme=dark) 
 
 ### Projects
 - **Bus Reservation System (C++)**
@@ -17,8 +20,6 @@ I'm a KALEPU MOHAN VEERA MANIKANTA Computer Science and Engineering student spec
 
 ### 📫 Contact Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalepu-mohan-veera-manikanta/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohanveeramanikantak)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohanveeramanikantak) 
 📧 Email: mvmanikanta98851@gmail.com
 
-## 📊 GitHub Stats
-![Mohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohanveeramanikantak&show_icons=true&theme=dark)
