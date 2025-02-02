@@ -12,8 +12,10 @@ I'm a KALEPU MOHAN VEERA MANIKANTA Computer Science and Engineering student spec
 
 ### Projects
 - **[Bus Reservation System (C++)]**
+
 ● Designed and implemented a user-friendly system for booking and managing bus
 reservations.
+
 ● Applied object-oriented programming principles for modular design
 
 ### Contact Me
