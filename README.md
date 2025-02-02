@@ -11,13 +11,11 @@ I'm a KALEPU MOHAN VEERA MANIKANTA Computer Science and Engineering student spec
 - **Tools:** Git, GitHub, VS Code
 
 ### Projects
-- **[Bus Reservation System (C++)]**
+- **Bus Reservation System (C++)**
+  - Designed a user-friendly system for booking and managing bus reservations.
+  - Implemented OOP principles for modular design.
 
-● Designed and implemented a user-friendly system for booking and managing bus
-reservations.
-
-● Applied object-oriented programming principles for modular design
-
-### Contact Me
-- **LinkedIn:** [https://www.linkedin.com/in/kalepu-mohan-veera-manikanta/]
-- **GitHub:** [https://github.com/mohanveeramanikantak]
+### 📫 Contact Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalepu-mohan-veera-manikanta/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohanveeramanikantak)  
+📧 Email: mvmanikanta98851@gmail.com
