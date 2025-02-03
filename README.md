@@ -12,7 +12,7 @@ I'm a KALEPU MOHAN VEERA MANIKANTA Computer Science and Engineering student spec
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - **Web Development:** HTML, CSS, JavaScript
 - **Tools:** Git, GitHub, VS Code
-- 
+
 ## 📊 GitHub Stats
 ![Mohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohanveeramanikantak&show_icons=true&theme=dark) 
 
