@@ -1,6 +1,6 @@
  
 # Hi there, I'm MOHAN 👋
-
+ 
 ### About Me
 I'm a KALEPU MOHAN VEERA MANIKANTA Computer Science and Engineering student specializing in Artificial Intelligence at KIET. Passionate about AI, Full-Stack Development, and open-source.
 
