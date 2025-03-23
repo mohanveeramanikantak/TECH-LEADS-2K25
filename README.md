@@ -3,7 +3,7 @@
    
 ### About Me
 I'm a KALEPU MOHAN VEERA MANIKANTA Computer Science and Engineering student specializing in Artificial Intelligence at KIET. Passionate about AI, Full-Stack Development, and open-source.
-
+ 
 ## 🚀 Tech Stack
 - **Programming**: ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
